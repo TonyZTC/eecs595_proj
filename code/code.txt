@@ -1,0 +1,2 @@
+def SETNZ(cpu):
+    return Operators(cpu.ZF)
